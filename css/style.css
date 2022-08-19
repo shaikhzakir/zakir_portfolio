@@ -9960,6 +9960,14 @@ h6,
   left: 0%;
 }
 
+.portfolio-item img{
+   transition: 0.3s; 
+}
+
+.portfolio-item:hover img{
+  transform: scale(1.1);
+}
+
 .portfolio-item .portfolio-link{
   position: absolute;
   width: auto;
