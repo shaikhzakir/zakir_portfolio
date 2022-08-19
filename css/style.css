@@ -6412,7 +6412,7 @@ button.bg-info:focus {
 }
 
 .bg-warning1 {
-  background-color: rgba(255, 191, 0, 0.6) !important;
+  background-color: rgba(255, 191, 0, 0.8) !important;
 }
 
 a.bg-warning:hover, a.bg-warning:focus,
