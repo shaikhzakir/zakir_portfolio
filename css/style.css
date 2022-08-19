@@ -9949,8 +9949,8 @@ h6,
   position: absolute;
   width: 0;
   height: 0;
-  top: 46%;
-  left: 46%;
+  top: 0%;
+  left: 0%;
   border-radius: 4px;
   opacity: 0;
   transition: .5s;
